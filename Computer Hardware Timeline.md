@@ -22,10 +22,10 @@
 
 **1801**
 - [Jacquard punch card](https://goo.gl/ig4fJh) Chain of punch cards to program looms
-- 
+
 **1820**
 - [Arithmometer](https://goo.gl/Ov1oNU) First digital mechanical calculator
-- 
+ 
 **1822**
 - [Babbage Difference Engine](https://goo.gl/RK4nYu) Proposed mechanical general purpose computer<br/>
     *(Babbage recieve £1700 from government to start project but it was abandonned in 1842)*
