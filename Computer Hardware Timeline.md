@@ -12,10 +12,10 @@
 
 **1642**
 - [Pascals Calculator](https://goo.gl/5sHb4f) Analog device
-- 
+
 **1725**
 - [Bouchon -Paper tape](https://goo.gl/1x3RJy) First use of paper tape to program looms
-- 
+
 **1786**
 - [J.H. Muller Difference Engine](https://goo.gl/RK4nYu) Engineer in the Hessian army conceived the idea of a difference engine<br/>
     *(Muller never received funding to build this engine)*
