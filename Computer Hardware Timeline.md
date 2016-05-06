@@ -227,7 +227,7 @@
 
 **2010**
 - Apple iPad<br/>
-    Apple iPhone 4
+- Apple iPhone 4
         
 **2011**
 - Apple iPhone 4s
