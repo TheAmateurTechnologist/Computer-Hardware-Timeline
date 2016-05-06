@@ -1,16 +1,15 @@
-Permalink: Computer Hardware Timeline
-<center> <h1> **Computer Hardware Timeline**
+Computer Hardware Timeline
 
+2400BC
+_[Abacus](https://goo.gl/k0JGph) (Babylonia)
 
+100BC
+_[Antikythera mechanism](https://goo.gl/lT0Sx5) Early Analog device.<br/>
+_[Astrolabe](https://goo.gl/9smf1x) (Greece)
 
-**2400BC**
-    [Abacus](https://goo.gl/k0JGph) (Babylonia)
+1620-30
+_[Slide rule](https://goo.gl/eSyvdq) Analog device
 
-**100BC**
-    [Antikythera mechanism](https://goo.gl/lT0Sx5) Early Analog device.<br/>
-    [Astrolabe](https://goo.gl/9smf1x) (Greece)
-**1620-30**
-    [Slide rule](https://goo.gl/eSyvdq) Analog device
 **1642**
     [Pascals Calculator](https://goo.gl/5sHb4f) Analog device
 **1725**
