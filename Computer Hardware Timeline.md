@@ -11,39 +11,39 @@
 - [Slide rule](https://goo.gl/eSyvdq) Analog device
 
 **1642**
-    [Pascals Calculator](https://goo.gl/5sHb4f) Analog device
+- [Pascals Calculator](https://goo.gl/5sHb4f) Analog device
 **1725**
-    [Bouchon -Paper tape](https://goo.gl/1x3RJy) First use of paper tape to program looms
+- [Bouchon -Paper tape](https://goo.gl/1x3RJy) First use of paper tape to program looms
 **1786**
-    [J.H. Muller Difference Engine](https://goo.gl/RK4nYu) Engineer in the Hessian army conceived the idea of a difference engine<br/>
+- [J.H. Muller Difference Engine](https://goo.gl/RK4nYu) Engineer in the Hessian army conceived the idea of a difference engine<br/>
     *(Muller never received funding to build this engine)*
 **1801**
-    [Jacquard punch card](https://goo.gl/ig4fJh) Chain of punch cards to program looms
+- [Jacquard punch card](https://goo.gl/ig4fJh) Chain of punch cards to program looms
 **1820**
-    [Arithmometer](https://goo.gl/Ov1oNU) First digital mechanical calculator
+- [Arithmometer](https://goo.gl/Ov1oNU) First digital mechanical calculator
 **1822**
-    [Babbage Difference Engine](https://goo.gl/RK4nYu) Proposed mechanical general purpose computer<br/>
+- [Babbage Difference Engine](https://goo.gl/RK4nYu) Proposed mechanical general purpose computer<br/>
     *(Babbage recieve £1700 from government to start project but it was abandonned in 1842)*
 **1837**
     [Babbage Analytical Engine](https://goo.gl/GTdnvk) Proposed mechanical general purpose computer<br/>
     *(Charles Babbage never actual built this device)*
 **1885-90**
-    [Hollerith tabulator](https://goo.gl/r4Hkei) Electromechanial puncard tabulating machine
+- [Hollerith tabulator](https://goo.gl/r4Hkei) Electromechanial puncard tabulating machine
 **1936**
-    [Alan Turing](https://goo.gl/16r9zh) Principles of modern computing described in the seminal paper.
+- [Alan Turing](https://goo.gl/16r9zh) Principles of modern computing described in the seminal paper.
 **1911**
-    [Computing-Tabulating-Recording Company](Computing-Tabulating-Recording Company)The start of IBM
+- [Computing-Tabulating-Recording Company](Computing-Tabulating-Recording Company)The start of IBM
 **1924**
-    [IBM name adopted](https://goo.gl/qkayVB) CTR changes name to Internationl Business Machines.
+- [IBM name adopted](https://goo.gl/qkayVB) CTR changes name to Internationl Business Machines.
 **1941**
-    [Konrad Zuse -Z3](https://goo.gl/AkzMLn) Worlds first electromechanical computer.
+- [Konrad Zuse -Z3](https://goo.gl/AkzMLn) Worlds first electromechanical computer.
 **1942**
-    [Atanasoff–Berry computer (ABC)](https://goo.gl/abzaxz) First Automatic electronic digital computer<br/>
+- [Atanasoff–Berry computer (ABC)](https://goo.gl/abzaxz) First Automatic electronic digital computer<br/>
     (The ABC was not programmable nor Turing complete)
 **1943**
-    [Colossus Computer](https://goo.gl/WzNWW5) World's first programmable, electronic, digital computer
+- [Colossus Computer](https://goo.gl/WzNWW5) World's first programmable, electronic, digital computer
 **1944**
-    [IBM Harvard Mark I](https://goo.gl/6IxaoG) IBM Automatic Sequence Controlled Calculator(ASCC)
+- [IBM Harvard Mark I](https://goo.gl/6IxaoG) IBM Automatic Sequence Controlled Calculator(ASCC)
 **1946**
     [ENIAC -Electronic Numerical Integrator And Computer](https://goo.gl/f3Jqfj) Was the first electronic general-purpose programmable computer.
     
