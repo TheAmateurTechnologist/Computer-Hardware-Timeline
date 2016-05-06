@@ -1,6 +1,6 @@
-*Computer Hardware Timeline*
+* Computer Hardware Timeline *
 
-2400BC
+* 2400BC *
 - [Abacus](https://goo.gl/k0JGph) (Babylonia)
 
 100BC
